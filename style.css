@@ -26,6 +26,7 @@ h2 {
 img {
   height: 412px;
   width: auto;
+  align: center;
 }
 
 /* body {
@@ -37,7 +38,7 @@ img {
 } */
 
 .time {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #8b0000;
   font-weight: bold;
 }
