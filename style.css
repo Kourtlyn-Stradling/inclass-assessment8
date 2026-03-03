@@ -55,6 +55,10 @@ body {
   font-weight: bold;
 }
 
+.recipe, #total {
+  margin-top: 25px;
+}
+
 li {
   line-height: 1.5;
 }
@@ -83,6 +87,8 @@ a:hover {
 a:active {
   color: #FF0000;
   text-decoration: none;
+}
+
 }
 
 ul, ol {
