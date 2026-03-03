@@ -4,7 +4,7 @@
   margin: 0;
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-size: 16px;
-  background-color: #f0ffff;
+  background-color: #fffaf0;
 }
 
 h1{
@@ -21,6 +21,8 @@ h2 {
   text-transform: uppercase;
   font-weight: semi-bold;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 h3 {
@@ -35,12 +37,12 @@ h3 {
 img {
   height: 500px;
   width: auto;
-  text-align: center;
+  margin: auto;
 }
 
 body {
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
   margin-top: 100px;
   margin-bottom: 100px;
 }
