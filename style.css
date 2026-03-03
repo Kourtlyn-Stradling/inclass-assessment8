@@ -16,11 +16,20 @@ h1{
 }
 
 h2 {
-  font-size: 2.5rem;
-  color: #000000;
+  font-size: 1.5rem;
+  color: #006400;
   text-transform: uppercase;
   font-weight: semi-bold;
   text-align: center;
+}
+
+h3 {
+  font-size: 2.5;
+  color: #8fbc8f
+  text-transform: uppercase;
+  font-weight: semi-bold;
+  text-align: center;
+  margin-bottom: 50px;
 }
 
 img {
@@ -32,6 +41,8 @@ img {
 body {
   margin-left: 80px;
   margin-right: 80px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .time {
@@ -41,7 +52,7 @@ body {
 }
 
 li {
-  line-height: 2.5;
+  line-height: 1.5;
 }
 
 ul li {
