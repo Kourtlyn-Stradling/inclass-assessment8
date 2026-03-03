@@ -55,6 +55,11 @@ body {
   font-weight: bold;
 }
 
+#total {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
 .recipe, #total {
   margin-top: 25px;
 }
