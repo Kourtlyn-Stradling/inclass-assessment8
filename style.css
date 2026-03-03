@@ -37,6 +37,7 @@ h3 {
 img {
   height: 500px;
   width: auto;
+  display: block;
   margin: auto;
 }
 
