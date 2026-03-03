@@ -64,20 +64,23 @@ ul li {
 a:link {
   color: #006400;
   font-weight: bold;
+  text-decoration: none;
 }
 
 a:visited {
-  color: #556b2f;
+  color: #8b0000;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #8b0000;
+  color: #556b2f;
   font-weight: normal;
   text-decoration: underline;
 }
 
 a:active {
   color: #FF0000;
+  text-decoration: none;
 }
 
 ul, ol {
