@@ -58,9 +58,10 @@ body {
 #total {
   margin-bottom: 15px;
   text-align: center;
+  margin-top: 25px;
 }
 
-.recipe, #total {
+.recipe {
   margin-top: 25px;
 }
 
